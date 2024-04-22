@@ -1,0 +1,7 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/dashboard/counter/page": "app/dashboard/counter/page.js",
+  "/dashboard/pokemons/page": "app/dashboard/pokemons/page.js",
+  "/dashboard/pokemon/[name]/page": "app/dashboard/pokemon/[name]/page.js"
+}
